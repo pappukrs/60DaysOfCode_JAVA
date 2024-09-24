@@ -44,8 +44,6 @@ public class ArrayListExample {
         }
 
 
-
-
           // Initialize an ArrayList with some values
           ArrayList<String> stringList = new ArrayList<>();
           stringList.add("A");
