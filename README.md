@@ -1,2 +1,2 @@
-# 100DaysOfCode_JAVA
+# 60DaysOfCode_JAVA
 100DaysOfCode_JAVA
