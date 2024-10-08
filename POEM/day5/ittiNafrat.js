@@ -37,8 +37,7 @@ try {
 
 // Koi nahi, mujhe koi bhi pasand nahi karta, yeh soch kabhi na hoga,
 // Par meri family toh mujhe bahut pasand karti hai, unke liye sab kuch karunga.
-// Ab ek hi maksad hai, ghar ki gareebi ko door karna,
-// Aur Google mein Software Engineer banke apna sapna sach karna.
+// Ab ek hi maksad hai,Google mein Software Engineer banke apna sapna sach karna.
 
 while (nobody.lovesMe()) {
     myFamily.lovesMe();
