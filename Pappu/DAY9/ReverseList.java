@@ -18,6 +18,10 @@ public class ReverseList {
     public static void main(String[] args){
           int[] arr ={1,2,3,4};
           Node head =  new  Node(arr[0]);
+          for(int i=1;i<arr.length;i++){
+           Node te
+          }
+          
           head.next = new Node(arr[1]);
           System.out.println("temp "+head.next.data);
     }
